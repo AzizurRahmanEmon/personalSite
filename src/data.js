@@ -1,43 +1,33 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+    title: "ECOMMERCE WEBSITE FOR A FURNITURE STORE",
+    subtitle: "React project",
+    sourceCode: "https://github.com/AzizurRahmanEmon/React-store",
     image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://react-store2533.netlify.app",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+    title: "HACKER NEWS",
+    subtitle: "React",
+    sourceCode: "https://github.com/AzizurRahmanEmon/hacker-news",
     image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://hacker-news2533.netlify.app",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+    title: "JOB SEARCH PERSONAL PROGRESS TRACKER",
+    subtitle: "MERN Stack",
+    sourceCode: "https://github.com/AzizurRahmanEmon/jobster",
     image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
-  },
-  {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://jobify-2rhi.onrender.com",
   },
 ];
 
 
 export const skills = [
   "JavaScript",
-  "React",
-  "Node",
+  "React Js",
+  "Node Js",
+  "Express Js",
   "HTML",
   "CSS",
   "Bootstrap",
