@@ -11,7 +11,7 @@ export default function About() {
             apps.
           </h1>
           <p className="mb-8 leading-relaxed">
-            My interests are in Front End Web Development and I love to create beautiful and helpful web apps
+            My interests are in Front End Web Development and I love to create beautiful and helpful web apps. I have completed bachelor degree on Computer Science Engineering from Daffodil International University.
           </p>
           <div className="flex justify-center">
             <a
