@@ -19,7 +19,7 @@ export default function Navbar() {
           </a>
         </nav>
         <a
-          href="https://docs.google.com/document/d/1ogH2iUekwIfZQhGdIdLJPB-I-ZoOND-Y/edit?usp=share_link&ouid=105730190292779357798&rtpof=true&sd=true"
+          href="https://drive.google.com/file/d/1y48NblEG-RNz01avfDSbOmOUSxQXV_GL/view?usp=share_link"
           target='_blank'
           rel="noopener noreferrer" 
           className="inline-flex items-center bg-gray-800 border-0 py-1 px-3 focus:outline-none hover:bg-gray-700 rounded text-base mt-4 md:mt-0">
